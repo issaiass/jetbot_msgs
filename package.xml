@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>jetbot_msgs</name>
+  <version>0.0.1</version>
+  <description>Messages for Nvidia Jetbot, Object Detection, Classification and so on</description>
+
+  <author email="issaiass@hotmail.com">Rangel Alvarado</author>
+  <maintainer email="issaiass@hotmail.com">Rangel Alvarado</maintainer>
+  <url type="website">https://daqsyspty.com</url>
+
+  <license>CCSA2.0</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>message_generation</build_depend>
+  <build_depend>std_msgs</build_depend>
+  <exec_depend>message_runtime</exec_depend>
+  <exec_depend>std_msgs</exec_depend>
+
+  <export>
+  </export>
+</package>
+
+
